@@ -6,7 +6,7 @@
 
 "Question" = "Question";
 
-"Request" = "Request";
+"Request" = "Suggestion";
 
 "Bug Report" = "Bug Report";
 
@@ -42,10 +42,10 @@
 
 "Additional Info"="Additional Info";
 
-"Additional detail"="Select the feedback attachment (picture)";
+"Additional detail"="Attach a picture (screenshot)";
 
 "Cancel"="Cancel";
 
-"Camera"="Camera";
+"Camera"="Take a Picture";
 
-"PhotoLibrary"="Select from the album";
+"PhotoLibrary"="Camera Roll";
